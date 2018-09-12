@@ -14,6 +14,7 @@ import store from './store';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+import './css/tailwind.css';
 
 class App extends Component {
     render() {
