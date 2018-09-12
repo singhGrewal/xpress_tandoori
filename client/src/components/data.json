@@ -1,0 +1,167 @@
+{
+  "type": "Restaurant Menu",
+  "restaurant-info": {
+    "id": "121721",
+    "sponsored": "0",
+    "user-favourite": "",
+    "name": "Nandos Banani",
+    "address": "Road-11, Banani, Dhaka",
+    "rating": "0.00",
+    "minimum-order-price": "300.00",
+    "delivery-fee": "75.00",
+    "avg_delivery_time": "60",
+    "logo": "https://s3-ap-southeast-2.amazonaws.com/aisdevtest/img/2b41b7bbf6da38212e1163c428d44f3a58b1487817bf3.jpg",
+    "open-status": "1",
+    "default-ad": "",
+    "review-enabled": "1",
+    "social-share": "0",
+    "value": null,
+    "total-category": "9",
+    "site-url": "",
+    "location-img": "",
+    "restaurant-url": "/restaurant/121721/menu",
+    "payment-methods": [
+      {
+        "id": "1",
+        "type": "Card/Debit Card"
+      },
+      {
+        "id": "3",
+        "type": "bKash"
+      },
+      {
+        "id": "4",
+        "type": "Cash On Delivery"
+      }
+    ],
+    "delivery-types": "0",
+    "tags": [],
+    "deliverable-area": [
+      {
+        "id": "2",
+        "name": "Banani"
+      },
+      {
+        "id": "3",
+        "name": "Gulshan 2"
+      },
+      {
+        "id": "4",
+        "name": "Baridhara"
+      },
+      {
+        "id": "6",
+        "name": "Mohakhali DOHS "
+      },
+      {
+        "id": "7",
+        "name": "Banani DOHS"
+      },
+      {
+        "id": "8",
+        "name": "Baridhara DOHS"
+      },
+      {
+        "id": "18",
+        "name": "Bashundhara"
+      },
+      {
+        "id": "19",
+        "name": "Mirpur DOHS"
+      },
+      {
+        "id": "164",
+        "name": "300 feet road bashundhara"
+      }
+    ],
+    "ratings": [
+      {
+        "rating": ""
+      }
+    ],
+    "total-food-items": "35",
+    "facebook-like-link": "",
+    "description": "",
+    "restaurant-discount": {
+      "type": "",
+      "value": "0.00"
+    },
+    "restaurant-images": [
+      "img1.png",
+      "img2.png",
+      "img3.png"
+    ]
+  },
+  "restaurant-time-info": {
+    "sat": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "sun": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "mon": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "tue": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "wed": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "thu": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ],
+    "fri": [
+      {
+        "open": "12:00:00",
+        "close": "22:30:00"
+      }
+    ]
+  },
+  "today": "Mon",
+  "working-hours-start": "12:00:00",
+  "working-hours-end": "22:30:00",
+  "appetizers": [
+    {
+      "name": "3 Chicken Wings",
+      "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
+      "prize" : 20,
+      "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+    },{
+      "name": "3 Chicken Wings",
+      "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
+      "prize" : 20,
+      "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+    },{
+      "name": "3 Chicken Wings",
+      "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
+      "prize" : 20,
+      "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+    },
+    {
+      "name": "Special Fried Rice",
+      "description": "Fried Rice with egg, fried chicken and chicken satay.",
+      "prize" : 20,
+      "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+    }
+  ],
+  "deals": []
+}

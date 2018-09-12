@@ -32,7 +32,7 @@ class AppNavbar extends Component {
               <Nav className="ml-auto" navbar>
                 <NavItem>
                   <NavLink href="https://github.com/bradtraversy/mern_shopping_list">
-                    Github Repo
+                    Github Repo dssdfsfdsfdsfsd
                   </NavLink>
                 </NavItem>
               </Nav>
