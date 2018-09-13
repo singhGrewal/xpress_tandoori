@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2d129348-52ce-42b8-b64c-4e8eb3ce0bfd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,20 +101,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="-1">
+              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="290">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -172,8 +171,8 @@
         <option value="$PROJECT_DIR$/client/src/App.css" />
         <option value="$PROJECT_DIR$/client/tailwind.js" />
         <option value="$PROJECT_DIR$/client/src/components/footer/Footer.js" />
-        <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/client/package.json" />
       </list>
     </option>
   </component>
@@ -273,7 +272,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536636612858</updated>
-      <workItem from="1536636614376" duration="17106000" />
+      <workItem from="1536636614376" duration="17309000" />
     </task>
     <task id="LOCAL-00001" summary="Adding footer">
       <created>1536794627190</created>
@@ -314,7 +313,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17106000" />
+    <option name="totallyTimeSpent" value="17309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -514,17 +513,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/package.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="-1">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/client/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="290">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
         </state>
       </provider>
     </entry>
