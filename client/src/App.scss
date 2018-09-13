@@ -1,0 +1,41 @@
+.remove-btn {
+    margin-right: 0.5rem;
+}
+
+.fade-enter {
+    opacity: 0.01;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit-active {
+    opacity: 0.01;
+    transition: opacity 1000ms ease-in;
+}
+
+.abc {
+    border: 1px solid red;
+    p {
+        font-size: 20px
+    }
+    span {
+        font-size: 40px
+    }
+}
+
+$font-stack: Helvetica,
+sans-serif;
+$primary-color: #333;
+$font-new: 30px;
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+    font-size: $font-new
+}
