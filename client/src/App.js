@@ -2,13 +2,13 @@ import React, { Component } from "react";
 import AppNavbar from "./components/AppNavbar";
 import ShoppingList from "./components/ShoppingList";
 import ItemModal from "./components/ItemModal";
-import { Container } from "reactstrap";
 
+import Footer from "./components/Footer";
 import { Provider } from "react-redux";
 import store from "./store";
 
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./App.scss";
+import "../src/styles/Index";
 
 class App extends Component {
   render() {
@@ -16,10 +16,11 @@ class App extends Component {
       <Provider store={store}>
         <div className="App">
           <AppNavbar />
-          <Container>
+          <section>
             <ItemModal />
             <ShoppingList />
-          </Container>
+            <Footer />
+          </section>
         </div>
       </Provider>
     );
