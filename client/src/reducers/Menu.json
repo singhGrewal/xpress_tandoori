@@ -1,0 +1,92 @@
+{
+    "type": "Restaurant Menu",
+    "restaurant-info": {
+        "id": "121721",
+        "name": "Indian xpress",
+        "address": "san diego",
+        "logo": "https://s3-ap-southeast-2.amazonaws.com/aisdevtest/img/2b41b7bbf6da38212e1163c428d44f3a58b1487817bf3.jpg",
+        "restaurant-images": [
+            "img1.png",
+            "img2.png",
+            "img3.png"
+        ]
+    },
+    "restaurant_time_info": [{
+            "date": "Monday",
+            "closed": true,
+            "open": "8AM",
+            "close": "9PM"
+        },
+        {
+            "date": "Tuesday",
+            "closed": false,
+            "open": "8AM",
+            "close": "9PM"
+        },
+        {
+            "date": "Wednesday",
+            "closed": false,
+            "open": "8AM",
+            "close": "9PM"
+        },
+        {
+            "date": "Thursday",
+            "closed": false,
+            "open": "8AM",
+            "close": "9PM"
+        },
+        {
+            "date": "Friday",
+            "closed": false,
+            "open": "8AM",
+            "close": "9PM"
+        },
+        {
+            "date": "Saturday",
+            "closed": false,
+            "open": "8AM",
+            "close": "9PM"
+        },
+        {
+            "date": "Sunday",
+            "closed": false,
+            "open": "8AM",
+            "close": "9PM"
+        }
+    ],
+    "contact": [{
+        "phone": "111-222-333-44"
+    }, {
+        "phone": "222-222-333-44"
+    }],
+    "email": [{
+        "email": "abc@gmail.com"
+    }, {
+        "email": "abc3@gmail.com"
+    }],
+    "appetizers": [{
+            "name": "3 Chicken Wings",
+            "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
+            "prize": 20,
+            "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+        },
+        {
+            "name": "3 Chicken Wings",
+            "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
+            "prize": 20,
+            "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+        },
+        {
+            "name": "3 Chicken Wings",
+            "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
+            "prize": 20,
+            "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+        },
+        {
+            "name": "Special Fried Rice",
+            "description": "Fried Rice with egg, fried chicken and chicken satay.",
+            "prize": 20,
+            "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
+        }
+    ]
+}

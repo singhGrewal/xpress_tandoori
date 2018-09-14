@@ -1,9 +1,5 @@
 import React, { Component } from "react";
-import AppNavbar from "./components/AppNavbar";
-import ShoppingList from "./components/ShoppingList";
-import ItemModal from "./components/ItemModal";
-
-import Footer from "./components/Footer";
+import Main from "./components/Main";
 import { Provider } from "react-redux";
 import store from "./store";
 
@@ -15,11 +11,8 @@ class App extends Component {
     return (
       <Provider store={store}>
         <div className="App">
-          <AppNavbar />
           <section>
-            <ItemModal />
-            <ShoppingList />
-            <Footer />
+            <Main />
           </section>
         </div>
       </Provider>
