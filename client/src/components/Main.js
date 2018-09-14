@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
-import Footer from "./Footer.js";
+import Footer from "./Footer";
+import Carousal from "./Carousal";
+import Menu from "./Menu";
 
 class Website extends Component {
   render() {
@@ -10,6 +12,8 @@ class Website extends Component {
     }
     return (
       <div>
+        <Menu data={data} />
+        <Carousal />
         <Footer data={data} />
       </div>
     );

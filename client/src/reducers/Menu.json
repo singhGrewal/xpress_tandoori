@@ -67,25 +67,25 @@
     "appetizers": [{
             "name": "3 Chicken Wings",
             "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-            "prize": 20,
+            "price": 20,
             "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
         },
         {
             "name": "3 Chicken Wings",
             "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-            "prize": 20,
+            "price": 20,
             "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
         },
         {
             "name": "3 Chicken Wings",
             "description": "Tender, Spicy and Juicy. Original or Peri-Crusted",
-            "prize": 20,
+            "price": 20,
             "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
         },
         {
             "name": "Special Fried Rice",
             "description": "Fried Rice with egg, fried chicken and chicken satay.",
-            "prize": 20,
+            "price": 20,
             "image": "http://resptheme.com/tf/ramesdm/img/rainbow-cake.jpg"
         }
     ]
